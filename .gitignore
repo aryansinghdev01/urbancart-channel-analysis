@@ -1,0 +1,8 @@
+# macOS junk
+.DS_Store
+
+# Virtual environment (recreate with: pip install -r requirements.txt)
+.venv/
+
+# Assignment brief - must not be published
+Case_Study_Brief.pdf
