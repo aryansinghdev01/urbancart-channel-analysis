@@ -2,12 +2,12 @@
 
 **This is a demanding role that requires a lot of rigor and hard work. Why do you still want to apply for it?**
 
-I come from an ECE background, so I didn't start with much experience in core software. I chose to learn it anyway and worked my way into a tech role. The first few months were genuinely hard: the technology was new, the terminology felt alien, and things took me longer to grasp than I wanted. So I rebuilt my foundations from scratch. AI helped me a lot here. After every task, I would ask it to explain everything I had just done, so I understood the context clearly and could apply it to the next one.
+I come from an ECE background, so I didn't start with much software experience. I chose to learn it anyway and worked my way into a tech role. The first months were hard: the technology was new and the terminology felt alien. I rebuilt my foundations from scratch, asking AI to explain everything after each task so I could apply it to the next one.
 
-My previous role, as a Software Developer in Data Engineering & Analytics at Mylo, was very demanding, and I had to work rigorously and hard. A role that asks for rigor and hard work isn't new to me. I can commit to it fully and get things done.
+That effort turned into real work. At Mylo, as a Software Developer in Data Engineering & Analytics, marketing's and finance's LTV numbers disagreed. I built a single cohort framework in PySpark, aligned metric definitions across marketing, finance and product, and reconciled it against the legacy SQL, which exposed an order-status exclusion mismatch. The tables showed some channels paid back CAC much faster, and the marketing budget was reallocated. A demanding, rigorous role isn't new to me.
 
-I also think I'm good at using AI, this generation's defining technology, to get work done and deliver real value to the business and its stakeholders.
+I also build with AI carefully. I shipped a RAG assistant over 17 official ICICI Prudential and SEBI documents, with guardrails and a validator that checks every number against its source; it passed all 25 evaluation cases.
 
-What motivates me most is seeing a dashboard or an ETL pipeline working and producing real business numbers. That is what pushes me to keep improving.
+This case study felt familiar: messy data, a status rule that changes the answer, and channels whose spend doesn't pay back. Working through it reminded me how much I enjoy turning data like that into a decision.
 
-Shiprocket fits the domain I've worked in, and I believe I'll grow fast by learning from the exceptionally good people there. I still have a lot to learn, and a platform like Shiprocket offers exactly what I want: messy, real data that I can clean and turn into business insights.
+That is why I want this role. Shiprocket serves D2C brands like the one I worked for, at a far larger scale, and that scale is where I'll learn fastest.
